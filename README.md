@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Prest00n
+- 👀 I’m interested in Computers, and CyberSecurity
+- 🌱 I’m currently learning Java, Python, and Japanese
+- 💞️ I’m looking to make Java Minecraft plugins using the Bukkit/Spigot API
+- 📫 How to reach me: 
+- Discord: Prest00n#5445
+- Email: prest00n06@gmail.com
