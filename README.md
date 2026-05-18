@@ -1,71 +1,106 @@
-# 👋 Hey, I’m Preston
+<h1 align="center">👋 Hey, I'm Preston</h1>
 
-I’m a developer, systems tinkerer, and builder of things that (eventually) don’t catch on fire.
+<p align="center">
+  <em>Developer · Systems tinkerer · Builder of things that (eventually) don't catch on fire</em>
+</p>
 
-I spend most of my time working on **self-hosted infrastructure**, **Minecraft network development**, and **backend tooling** — with a strong focus on **stability, maintainability, and clean design** over quick hacks.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Self-hosted+infrastructure+enthusiast;Backend+%26+API+architect;Homelab+operator+%40+NorseLabs;Technical+Director+%40+Team+StreamLink" alt="Typing SVG" />
+</p>
+
+---
+
+I spend most of my time building **self-hosted infrastructure**, **backend systems**, and **community tooling** — with a strong focus on **stability, maintainability, and clean design** over quick hacks.
+
+Currently serving as **Technical Director** at [Team StreamLink Media](https://team-streamlink.org), where I architect the systems that keep our creator network running.
 
 ---
 
 ## 🔧 What I Work On
 
-- 🧠 **Backend & Systems**
-  - Java (Spigot/Paper/Purpur, Velocity)
-  - Docker, Proxmox, Linux
-  - MySQL / SQLite
-  - CI/CD & config-driven systems
-
-- 🎮 **Game & Community Infrastructure**
-  - Large-scale Minecraft networks
-  - Custom plugins & core frameworks
-  - Staff tooling, permissions, and moderation systems
-  - Performance optimization & scalability
-
-- 🌐 **Self-Hosting & Homelab**
-  - Reverse proxies, DNS, networking
-  - Service orchestration & automation
-  - Monitoring, backups, and uptime-focused design
+```ts
+const preston = {
+  role: "Technical Director @ Team StreamLink",
+  stack: {
+    backend:  ["TypeScript", "Bun", "Hono", "Drizzle", "Node.js"],
+    systems:  ["Proxmox", "Docker/LXC", "Pterodactyl", "Linux"],
+    network:  ["NPMplus", "AdGuard Home", "Authentik", "split DNS"],
+    games:    ["Java (Spigot/Paper)", "Project Zomboid", "Rust", "DayZ"],
+    data:     ["MariaDB", "SQLite", "Drizzle ORM"],
+  },
+  currentlyBuilding: "SLAPI — the StreamLink API platform",
+  homelab: "NorseLabs (Dell R620, ~30 services)",
+  philosophy: "Build intentionally, not fast",
+};
+```
 
 ---
 
 ## 🏗️ Current Focus
 
-- Building **modular, reusable core systems**
-- Cleaning up rushed or legacy setups
-- Improving development workflows and standards
-- Designing systems that scale *without* duct tape
+- 🚀 **SLAPI** — a unified API integrating Twitch, Discord, Kick, YouTube & Steam
+- 🤖 **StreamLink Streamer Bot** — live notifications via Twitch EventSub
+- 🎮 **Game server infrastructure** — Project Zomboid, Minecraft, DayZ
+- 🏠 **NorseLabs** — self-hosted everything, because trust is earned
+- 📐 Designing systems that scale *without* duct tape
 
 ---
 
 ## 🧭 Philosophy
 
-- **Build intentionally, not fast**
+> **"Make it work, make it clean, make it last."**
+
+- Build intentionally, not fast
 - Config over hard-coded logic
 - Clear scopes > last-minute features
-- No “temporary” solutions in production
+- No "temporary" solutions in production
 - Professional systems can still be fun
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prest00n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prest00n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prest00n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prest00n&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prest00n/Prest00n/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
 ## 📂 Projects
 
-Most of my work lives in **private repositories** or active infrastructure, but public projects here reflect:
-- Plugin experiments
-- Tooling & utilities
-- Reference implementations
-- Documentation & configs
+Most of my work lives in **private repositories** or active infrastructure, but public repos here reflect:
+
+- 🧩 Plugin experiments & reference implementations
+- 🛠️ Tooling, utilities, and config templates
+- 📚 Documentation for the homelab-curious
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-If you’re interested in:
-- Minecraft development
-- Backend systems
-- Self-hosting & infrastructure
-- Building communities the *right* way
+Interested in **backend systems**, **self-hosting**, **game server ops**, or **building communities the right way?**
 
-Feel free to reach out or explore the repos 👀
+<p align="center">
+  <a href="https://team-streamlink.org"><img src="https://img.shields.io/badge/Team-StreamLink-9146FF?style=for-the-badge" alt="Team StreamLink" /></a>
+</p>
 
 ---
 
-> “Make it work, make it clean, make it last.”
+<p align="center"><em>"No 'temporary' solutions in production."</em></p>
